@@ -64,7 +64,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="kamble.aniket.ak47@gmail.com" target="_blank">
+<a href="mailto:kamble.aniket.ak47@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Aniket-404" target="_blank">
