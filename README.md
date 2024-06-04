@@ -4,7 +4,7 @@
 ### <div align="center">I'm Aniket, a full-stack developer 👨‍💻 currently a student persuing Artificial Intelligence & Data Science 🚀</div>  
   
 
-- 🔭 I’m currently working on [Text to 3d Model Generator](https://github.com/Aniket-404/Text-to-3D-web-app)
+- 🔭 I’m currently working on [Text to 3d Model Generator Web App](https://github.com/Aniket-404/Text-to-3D-web-app)
   
 
 - 🌱 I’m currently learning Data Science, App Development & Web Development.  
