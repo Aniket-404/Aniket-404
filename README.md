@@ -60,8 +60,6 @@
 
 <br/>  
 
-![snake gif](https://github.com/Aniket-404/Aniket-404/blob/output/github-snake-dark.svg)
-
 ## Connect with me  
 <div align="center">
 <a href="mailto:kamble.aniket.ak47@gmail.com" target="_blank">
@@ -82,7 +80,8 @@
 </div>  
   
 
-<br/>  
+<br/>
 
+![snake gif](https://github.com/Aniket-404/Aniket-404/blob/output/github-snake-dark.svg)
 
 <br />
