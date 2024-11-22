@@ -60,6 +60,9 @@
 
 <br/>  
 
+<div align="center">
+  ![snake gif](https://github.com/Aniket-404/Aniket-404/blob/output/github-snake-dark.svg)
+</div>
 
 ## Connect with me  
 <div align="center">
